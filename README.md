@@ -1,0 +1,1 @@
+# Practica9_-Simulaci-n-de-sistemas-electromec-nicos
